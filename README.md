@@ -9,10 +9,10 @@ This project is a starting point for a Flutter application.
 ## Screenshots
 
 ### Home Screen
-![Home Screen](screenshots/home.png)
+<img src="screenshots/home.png" width="400" />
 
 ### Login Screen
-![Login Screen](screenshots/login.png)
+<img src="screenshots/login.png" width="400" />
 
 ### Book Details
-![Book Details](screenshots/book_details.png)
+<img src="screenshots/book_details.png" width="400" />
